@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Steven KKC, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Steven Maksym, a full-time full-stack freelance developer 👨‍💻 working remotely 🚀</div>  
   
 
 <br/>  
